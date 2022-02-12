@@ -3,7 +3,7 @@
 
 <img align="right" height="170" alt="gif" src="https://thumbs.gfycat.com/HeftyHeartfeltAlpaca-max-1mb.gif">
 
-Studying:
+Freshman, studying:
 - 💾 System Analysis and Development
 
 
