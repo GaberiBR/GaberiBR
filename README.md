@@ -1,15 +1,18 @@
 Ericlys <b>Gabriel</b> here!
-<div>Always looking for evolution and impacting lives in a positive way around me, doing good and giving my best. Being curious made me become a polymath and erudite, I know a little bit of everything, from the arts to numbers. Games opened me up to strategic visions and awakened my passion for creativity, where I can apply the innovations that I carry in my cultural baggage, in the areas that I love to exert and study, communication and technology.</div>
 <div>
-  <a href="https://github.com/GaberiBR">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaberiBR&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  Always looking for evolution and impacting lives in a positive way around me, doing good and giving my best. Being curious made me become a polymath and erudite, I know a little bit of everything, from the arts to numbers. Games opened me up to strategic visions and awakened my passion for creativity, where I can apply the innovations that I carry in my cultural baggage, in the areas that I love to exert and study, communication and technology.</div>
+<div>
+  <div>
+    <a href="https://github.com/GaberiBR">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaberiBR&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
+  </div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+</div> 
  
  <br>
  
