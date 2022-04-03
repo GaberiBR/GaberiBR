@@ -1,6 +1,6 @@
 Ericlys <b>Gabriel</b> here!
 <div>
-  Always looking for evolution and impacting lives in a positive way around me, doing good and giving my best. Being curious made me become a polymath and erudite, I know a little bit of everything, from the arts to numbers. Games opened me up to strategic visions and awakened my passion for creativity, where I can apply the innovations that I carry in my cultural baggage, in the areas that I love to exert and study, communication and technology.</div>
+  Always looking for evolution and impacting lives in a positive way around me, doing good and giving my best.</div>
 <div>
   <div>
     <a href="https://github.com/GaberiBR">
