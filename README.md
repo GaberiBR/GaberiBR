@@ -1,7 +1,7 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=GaberiBR&label=Profile%20views&color=0e75b6&style=flat" alt="gaberi" /></p>
 
 <h1 align="center"><img src="https://cdn.streamelements.com/uploads/ff54341b-245b-4a6f-8e38-5a3c32bf35cb.gif" width="70px"> <br>Hello, World!</h1>
-<h5 align="center"><br> First Semester <br> System Analysis and Development <br> Studying to become DevSecOps and UX/UI Designer</h5>
+<h5 align="center"> STUDENT <br> First Semester <br> System Analysis and Development <br> Studying to become DevSecOps and UX/UI Designer</h5>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
   
