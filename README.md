@@ -1,8 +1,11 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=GaberiBR&label=Profile%20views&color=0e75b6&style=flat" alt="gaberi" /></p>
 
-<h1 align="center"><img src="https://cdn.streamelements.com/uploads/ff54341b-245b-4a6f-8e38-5a3c32bf35cb.gif" width="70px"> <br>Hello, World!</h1>
-<h5 align="center"> STUDENT <br> First Semester <br> System Analysis and Development <br> Studying to become DevSecOps and UX/UI Designer</h5>
-<div style="display: inline_block"><br>
+<div align="center">
+  <h1 align="center"><img src="https://cdn.streamelements.com/uploads/ff54341b-245b-4a6f-8e38-5a3c32bf35cb.gif" width="70px"> <br>Hello, World!</h1>
+  <h5 align="center"> STUDENT <br> First Semester <br> System Analysis and Development <br> Studying to become DevSecOps and UX/UI Designer</h5>
+  <div style="display: inline_block"><br>
+   <img title="Streak" alt="Ericlys Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=gaberibr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D" width=450px/>
+ </div>
   
 <div>
   <div>
@@ -10,7 +13,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaberiBR&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
   </div>
-  <div style="display: inline_block"><br>
+  <div align="left" style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,20 +21,21 @@
 </div> 
  
  <br>
+ <div align="left">
+   <h3>Contact me.</h3>
  
-  ### Contact me.
  
-<div> 
   <a href="https://www.youtube.com/c/GaberiBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gaberibr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/UpWte22g4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/UpWte22g4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ericlysgabrielbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericlysgabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <hr>
+</div>
+  <div>
   <h2 align="center">BADGES</h2>
   <a href= "https://www.credly.com/earner/earned/badge/a683039c-a18d-4628-8b73-61fe8ed4539d"> 
-  <img alt= "cybersecurity" src= "https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width = 120px alt = "cybersecurity">
+  <img align="left" src= "https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width = 120px alt = "cybersecurity">
   
   ![Snake animation](https://github.com/GaberiBR/GaberiBR/blob/output/github-contribution-grid-snake.svg)
-
 </div>
