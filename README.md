@@ -2,7 +2,6 @@
 
 <h1 align="center"><img src="https://cdn.streamelements.com/uploads/ff54341b-245b-4a6f-8e38-5a3c32bf35cb.gif" width="70px"> <br>Hello, World!</h1>
 <h5 align="center"> STUDENT <br> First Semester <br> System Analysis and Development <br> Studying to become DevSecOps and UX/UI Designer</h5>
-<h2 align="center"></h2>
 <div style="display: inline_block"><br>
   
 <div>
@@ -28,7 +27,11 @@
  <a href="https://discord.gg/UpWte22g4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ericlysgabrielbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericlysgabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <hr>
+  <h2 align="center">BADGES</h2>
+  <a href= "https://www.credly.com/earner/earned/badge/a683039c-a18d-4628-8b73-61fe8ed4539d"> 
+  <img alt= "cybersecurity" src= "https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width = 120px alt = "cybersecurity">
+  
   ![Snake animation](https://github.com/GaberiBR/GaberiBR/blob/output/github-contribution-grid-snake.svg)
 
 </div>
