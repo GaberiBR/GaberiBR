@@ -41,6 +41,4 @@
   <h2 align="center">BADGES</h2>
   <a href= "https://www.credly.com/badges/a683039c-a18d-4628-8b73-61fe8ed4539d/public_url"> 
   <img align="left" src= "https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width = 120px alt = "cybersecurity">
-  
-  ![Snake animation](https://github.com/GaberiBR/GaberiBR/blob/output/github-contribution-grid-snake.svg)
 </div>
