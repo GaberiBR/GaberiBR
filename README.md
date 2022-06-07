@@ -1,8 +1,6 @@
-<p align=" left"> <img src="https://komarev.com/ghpvc/?username=GaberiBR&label=Profile%20views&color=0e75b6&style=flat" alt="gaberi" /></p>
-
 <div align="center">
   <h1 align="center"><img src="https://cdn.streamelements.com/uploads/ff54341b-245b-4a6f-8e38-5a3c32bf35cb.gif" width="70px"> <br>Hello, World!</h1>
-  <h5 align="center"> STUDENT <br> First Semester <br> System Analysis and Development</h5>
+  <h5 align="center"> STUDENT <br> Second Semester <br> System Analysis and Development</h5>
   <div style="display: inline_block"><br>
    <img title="Streak" alt="Ericlys Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=gaberibr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
  </div>
