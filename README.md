@@ -10,7 +10,6 @@
   <div>
     <a href="https://github.com/GaberiBR">
       <img title="Streak" alt="Ericlys Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=gaberibr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D" width=300px/>
-    <img height="118em" src="https://github-readme-stats.vercel.app/api?username=GaberiBR&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
     <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
   </div>
   <div align="left" style="display: inline_block"><br>
