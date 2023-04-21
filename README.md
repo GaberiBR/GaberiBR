@@ -39,6 +39,6 @@ Conhecimento em Machine Learning e Artificial Intelligence
   <img align="left" src= "https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width = 120px alt = "cybersecurity">
   <a href= "https://www.credly.com/badges/d9deecce-5826-4978-bcdc-1f033c64514a/public_url"> 
   <img align="left" src= "https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width = 120px alt = "CCNA1">
-  <a href= "https://www.credly.com/badges/d9deecce-5826-4978-bcdc-1f033c64514a/public_url"> 
+  <a href= "https://www.credly.com/badges/8d0b7fa7-64ad-4f48-8ded-87d18129b235/public_url"> 
   <img align="left" src= "https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width = 120px alt = "CyberOps">
 </div>
