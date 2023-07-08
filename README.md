@@ -41,4 +41,5 @@ Conhecimento em Machine Learning e Artificial Intelligence
   <img align="left" src= "https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width = 120px alt = "CCNA1">
   <a href= "https://www.credly.com/badges/8d0b7fa7-64ad-4f48-8ded-87d18129b235/public_url"> 
   <img align="left" src= "https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width = 120px alt = "CyberOps">
+    <a href="https://stackexchange.com/users/28978237/ericlys-gabriel"><img src="https://stackexchange.com/users/flair/28978237.png" width="208" height="58" alt="profile for Ericlys Gabriel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ericlys Gabriel on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </div>
