@@ -4,10 +4,8 @@
     <h5 align="center"> Olá! Meu nome é Ericlys e estou graduando em análise e desenvolvimento de sistemas. Atualmente, estou estudando para conseguir uma bolsa de mestrado em ciência de dados na China, com o objetivo de me tornar cientista de dados.</h5>
   <div style="display: inline_block"><br>
   <h1>Minhas habilidades</h1>
-
-Programação em Python <br>
-Análise de dados usando Python, SQL e Excel; <br>
-Conhecimento em Machine Learning e Artificial Intelligence
+Análise de dados usando Python (intermediário), SQL (intermdiário e Excel (avançado);<br>
+Desenvolvendo base em Machine Learning e Artificial Intelligence
  </div>
   
 <div>
