@@ -15,16 +15,17 @@ Desenvolvendo base em Machine Learning e Artificial Intelligence
     <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
   </div>
   <div align="left" style="display: inline_block"><br>
-    <h1> HABILIDADES </h1>
-    <img align="center" alt="Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <h1> Tech Stack </h1>
+    <img align="center" alt="Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+    <img align="center" alt="sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
+    <img align="center" alt="Not" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
   </div>
 </div> 
  
  <br>
  <div align="left">
-   <h3>Contact me.</h3>
- 
-  <a href="https://discord.gg/UpWte22g4h" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <h3>Socials</h3>
   <a href="https://www.linkedin.com/in/ericlysgabriel" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
  <hr>
