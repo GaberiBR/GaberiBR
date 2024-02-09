@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=gaberibr-github-username&style=plastic)
 <div align="center">
-  <h1>About me</h1>
+  <h1>Hello and welcome, I'm Ericlys</h1>
     <h5 align="center"> Graduated in Systems Development Analysis. estou estudando para conseguir uma bolsa de mestrado em ciência de dados na China, com o objetivo de me tornar cientista de dados.</h5>
   <div style="display: inline_block"><br>
   <h1>Minhas habilidades</h1>
