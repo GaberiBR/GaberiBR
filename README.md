@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gaberibr-github-username&style=plastic)
 <div align="center">
   <h1>Hello and welcome, I'm Ericlys!</h1>
-    <h5 align="left"> Graduated in Systems Development Analysis. <br> I'm studying for Master in Data Science, and, open to work.</h5>
+    <h5 align="left"> 🎓 Graduated in Systems Development Analysis | 2022 - 2024. <br> I'm studying for Master in Data Science, and, open to work.</h5>
   <div style="display: inline_block"><br>
   <div align="right">
     <a href="https://github.com/GaberiBR">
