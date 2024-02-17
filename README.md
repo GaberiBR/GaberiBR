@@ -1,21 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=gaberibr-github-username&style=plastic)
 <div align="center">
-  <h1>Hello and welcome, I'm Ericlys</h1>
-    <h5 align="center"> Graduated in Systems Development Analysis. estou estudando para conseguir uma bolsa de mestrado em ciência de dados na China, com o objetivo de me tornar cientista de dados.</h5>
+  <h1>Hello and welcome, I'm Ericlys!</h1>
+    <h5 align="left"> Graduated in Systems Development Analysis. <br> I'm studying for Master in Data Science, and, open to work.</h5>
   <div style="display: inline_block"><br>
-  <h1>Minhas habilidades</h1>
-Análise de dados usando Python (intermediário), SQL (intermdiário) e Excel (avançado);<br>
-Desenvolvendo base em Machine Learning e Artificial Intelligence
- </div>
-  
-<div>
-  <div>
+  <div align="right">
     <a href="https://github.com/GaberiBR">
       <img title="Streak" alt="Ericlys Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=gaberibr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D" width=300px/>
     <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
   </div>
   <div align="left" style="display: inline_block"><br>
     <h1> Tech Stack </h1>
+    Excel, SQL, Power BI, Python, AWS.
     <img align="center" alt="Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img align="center" alt="sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
