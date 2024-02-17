@@ -1,29 +1,14 @@
-![](https://komarev.com/ghpvc/?username=gaberibr-github-username&style=plastic)
-<div align="center">
-  <h1>Hello and welcome, I'm Ericlys!</h1>
-    <h5 align="left"> 🎓 Graduated in Systems Development Analysis | 2022 - 2024. <br> I'm studying for Master in Data Science, and, open to work.</h5>
-  <div style="display: inline_block"><br>
-  <div align="right">
-    <a href="https://github.com/GaberiBR">
-      <img title="Streak" alt="Ericlys Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=gaberibr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D" width=300px/>
-    <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberiBR&layout=compact&langs_count=6&theme=gruvbox"/>
-  </div>
-  <div align="left" style="display: inline_block"><br>
-    <h1> Tech Stack </h1>
-    Excel, SQL, Power BI, Python, AWS.
-    <img align="center" alt="Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    <img align="center" alt="aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img align="center" alt="sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
-    <img align="center" alt="Not" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
-  </div>
-</div> 
- 
- <br>
- <div align="left">
-   <h3>Socials</h3>
-  <a href="https://www.linkedin.com/in/ericlysgabriel" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
- <hr>
+[![](https://visitcount.itsvg.in/api?id=gaberibr&icon=3&color=2)](https://visitcount.itsvg.in)
+# 💫 Hello and welcome, I'm Ericlys!
+🔭 I’m open to work<br>🤝 I’m looking to collaborate on projects<br>🌱 I’m currently learning Data Science
+    <h5 align="left"> 🎓 Graduated in Systems Development Analysis | 2022 - 2024.
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/gaberi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ericlysgabriel/) 
+
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+<hr>
 </div>
   <div>
   <h2 align="center">BADGES</h2>
@@ -35,3 +20,6 @@
   <img align="left" src= "https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width = 120px alt = "CyberOps">
     <a href="https://stackexchange.com/users/28978237/ericlys-gabriel"><img src="https://stackexchange.com/users/flair/28978237.png" width="208" height="58" alt="profile for Ericlys Gabriel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ericlys Gabriel on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   
+ 
