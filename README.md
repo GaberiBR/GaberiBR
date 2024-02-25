@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=gaberibr&icon=3&color=2)](https://visitcount.itsvg.in)
 # Ericlys Rodrigues
 🔓 I’m open to work <br> 🤝 I’m looking to collaborate on projects <br> 🌱 I’m currently learning Data Science <br> 🎓 Graduated in Systems Development Analysis | 2022 - 2024.
 
