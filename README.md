@@ -1,5 +1,5 @@
 # Ericlys Rodrigues
-🔓 I’m open to work <br> 🤝 I’m looking to collaborate on projects <br> 🌱 I’m currently learning Data Science <br> 🎓 Graduated in Systems Development Analysis | 2022 - 2024. continuous learning aimed at on Artificial Intelligence, Machine Learning and Deep Learning.
+🔓 I’m open to work <br> 🤝 I’m looking to collaborate on projects <br> 🌱 I’m currently learning Data Science <br> 🎓 Graduated in Systems Development Analysis | 2022 - 2024. Continuous learning aimed at on Artificial Intelligence, Machine Learning and Deep Learning.
 
 | Português | English | 简体中文|
 |-----------|---------|---------|
